@@ -1,0 +1,145 @@
+  777  mv covers exo0
+  778  ls
+  779  cd exo0
+  780  ls
+  781  cd covers
+  782  ls
+  783  mkdir Constructeurs
+  784  cd Constructeurs
+  785  mkdir Sony && Nintendo
+  786  ls
+  787  mkdir Nintendo && mkdir Microsoft && mkdir Sega
+  788  cd Sony
+  789  mkdir Consoles && mkdir Consoles_portables
+  790  cd Consoles
+  791  mkdir PS4 && mkdirPS5
+  792  mkdir PS5
+  793  cd PS4
+  794  mkdir fifa14 && Uncharted
+  795  mkdir Uncharted
+  796  cd ../PS5
+  797  mkdir FarCry6
+  798  cd /
+  799  ls
+  800  cd Users/matvki/Desktop/day00/exo0
+  801  ls
+  802  cd covers
+  803  ls
+  804  mv man
+  805  man mv
+  806  cd Constructeurs/Sony/Consoles/PS4 && mkdir Assassin_Credd_Odyssey
+  807  cd /Users/matvki/Desktop/day00/exo0/covers
+  808  mv playstation_4.assassinscreedodyssey.jpg Constructeurs/Sony/Consoles/PS4/Assassin_Credd_Odyssey
+  809  cd Constructeurs/Sony/Consoles/PS4
+  810  ls
+  811  mr-rf fifa14
+  812  mr -rf fifa14
+  813  rm -rf fifa14
+  814  mkdir fifa14
+  815  mkdir WatchDogs2
+  816  cd ../../../..
+  817  mv playstation_4.unchartedthelostlegacy.jpg Constructeurs/Sony/Consoles/PS4/Uncharted
+  818  mv playstation_4.watchdogs2.jpg Constructeurs/Sony/Consoles/PS4/WatchDogs2
+  819  mv ps4_fifa14.jpg Constructeurs/Sony/Consoles/PS4/fifa14
+  820  cd Constructeurs/Sony/Consoles/ps4
+  821  ls
+  822  cd ..
+  823  PS5
+  824  cd PS5
+  825  mkdir Assasin_Creed_Valhalla
+  826  mkdir Farcry6 && mkdir Residentevil
+  827  ls
+  828  mkdir Residenrevil
+  829  ls
+  830  cd ../../../..
+  831  mv playstation_5.assassinscreedvalhalla.jpg Constructeurs/Sony/Consoles/PS5/Assasin_Creed_Valhalla && mv playstation_5.farcry6.jpg Constructeurs/Sony/Consoles/PS5/FarCry6 && mv playstation_5.residentevilvillage_.jpg Constructeurs/Sony/Consoles/PS5/Residenrevil
+  832  cd Constructeurs
+  833  ls
+  834  cd Sega
+  835  mkdir Consoles/dc/
+  836  mkdir Consoles
+  837  mkidr Consoles/dc
+  838  mkdir Consoles/dc
+  839  cd ..
+  840  cd ..
+  841  mkdir Constructeurs/Sega/Consoles/dc/Jetgrindradio
+  842  mkdir Constructeurs/Sega/Consoles/dc/Jetsetradio
+  843  mkdir Constructeurs/Sega/Consoles/dc/Shenmue
+  844  mkdir Constructeurs/Sega/Consoles/dc/shenlueii
+  845  mv dc_jetgrindradio_10.jpg Constructeurs/Sega/Consoles/dc/Jetgrindradio
+  846  mv dc_jetgrindradio_10.jpg Constructeurs/Sega/Consoles/dc/Jetsetradio
+  847  mv dc_jetsetradio_eu_front.jpg Constructeurs/Sega/Consoles/dc/Jetsetradio
+  848  mv dc_shenmue_eu.jpg Constructeurs/Sega/Consoles/dc/Shenmue
+  849  mv dc_shenmueii_5.jpg Constructeurs/Sega/Consoles/dc/shenlueii
+  850  mkdir Constructeurs/Nintendo/Consoles_portable
+  851  mkdir Constructeurs/Nintendo/Consoles_portable/Gameboy
+  852  mkdir Constructeurs/Nintendo/Consoles_portable/Gameboy/pokemon_red
+  853  mkdir Constructeurs/Nintendo/Consoles_portable/Gameboy/pokemon_blue
+  854  mkdir Constructeurs/Nintendo/Consoles_portable/Gameboy/pokemon_green
+  855  mkdir Constructeurs/Nintendo/Consoles_portable/Gameboy_color
+  856  mkdir Constructeurs/Nintendo/Consoles_portable/Gameboy_color/pokemon_gold
+  857  mkdir Constructeurs/Nintendo/Consoles
+  858  mkdir Constructeurs/Nintendo/Consoles/gamecube
+  859  mkdir Constructeurs/Nintendo/Consoles/gamecube/mariokart
+  860  mkdir Constructeurs/Nintendo/Consoles/gamecube/mariokart
+  861  mkdir Constructeurs/Nintendo/Consoles/gamecube/supermario
+  862  mv gameboy.pokmonred.jpg Constructeurs/Nintendo/Consoles_portable/Gameboy/pokemon_red
+  863  mv gb_pokemonblue_eu.jpg Constructeurs/Nintendo/Consoles_portable/Gameboy/pokemon_blue
+  864  mv gb_pokemongreen_3.jpg Constructeurs/Nintendo/Consoles_portable/Gameboy/pokemon_green
+  865  cd Constructeurs/Nintendo/Consoles_portable/Gameboy_color
+  866  ls
+  867  cd ../../..
+  868  cd ..
+  869  mkdir Constructeurs/Nintendo/Consoles_portable/Gameboy/pokemon_yellow
+  870  mv gb_pokemonyellow_au.jpg Constructeurs/Nintendo/Consoles_portable/Gameboy/pokemon_yellow
+  871  mv gbc_pokemongold.jpg Constructeurs/Nintendo/Consoles_portable/Gameboy_color/pokemon_gold
+  872  mv gc_mariokartdoubledash.jpg Constructeurs/Nintendo/Consoles/gamecube/mariokart
+  873  mv gc_supermariosunshine.jpg Constructeurs/Nintendo/Consoles/gamecube/supermario
+  874  mkdir Constructeurs/Microsoft/consoles
+  875  mkdir Constructeurs/Microsoft/consoles/xbox
+  876  mkdir Constructeurs/Microsoft/consoles/xbox360
+  877  mkdir Constructeurs/Microsoft/consoles/xbox/callofduty
+  878  mkdir Constructeurs/Microsoft/consoles/xbox/callofduty
+  879  mkdir Constructeurs/Microsoft/consoles/xbox/callofduty3
+  880  mkdir Constructeurs/Microsoft/consoles/xbox/callofduty2
+  881  mkdir Constructeurs/Microsoft/consoles/xbox/callofduty4
+  882  mkdir Constructeurs/Microsoft/consoles/xbox/deadoralive3
+  883  mkdir Constructeurs/Microsoft/consoles/xbox/deadtorights
+  884  mkdir Constructeurs/Microsoft/consoles/xbox/defjamfightforny
+  885  mkdir Constructeurs/Microsoft/consoles/xbox/halo
+  886  mkdir Constructeurs/Microsoft/consoles/xbox/halo2
+  887  mkdir Constructeurs/Microsoft/consoles/xbox/jetsetradiofutur
+  888  mkdir Constructeurs/Microsoft/consoles/xbox/needforspeed
+  889  cd Constructeurs/Microsoft/consoles/xbox/
+  890  ls
+  891  rm -rf callofduty
+  892  rm -rf callofduty2
+  893  rm -rf callofduty3
+  894  rm -rf callofduty4
+  895  cd ../../../..
+  896  mkdir Constructeurs/Microsoft/consoles/xbox360/callofduty3
+  897  mkdir Constructeurs/Microsoft/consoles/xbox360/callofduty2
+  898  mkdir Constructeurs/Microsoft/consoles/xbox360/callofduty4
+  899  mkdir Constructeurs/Microsoft/consoles/xbox360/callofdutybo2
+  900  mkdir Constructeurs/Microsoft/consoles/xbox360/fableiii
+  901  mv x360_callfoduty3.jpg Constructeurs/Microsoft/consoles/xbox360/callofduty3
+  902  mv x360_callofduty2.jpg Constructeurs/Microsoft/consoles/xbox360/callofduty2
+  903  mv x360_callofduty4.jpg Constructeurs/Microsoft/consoles/xbox360/callofduty4
+  904  mv x360_callofdutyblackopsii.jpg Constructeurs/Microsoft/consoles/xbox360/callofdutybo2
+  905  mv xbox_360.fableiii.jpg Constructeurs/Microsoft/consoles/xbox360/fableiii
+  906  mv xbox_deadoralive3.jpg Constructeurs/Microsoft/consoles/xbox/deadoralive3
+  907  mv xbox_deadtorights.jpg Constructeurs/Microsoft/consoles/xbox/deadtorights
+  908  mv xbox_defjamfightforny.jpg Constructeurs/Microsoft/consoles/xbox/defjamfightforny
+  909  mv xbox_halo_2.jpg Constructeurs/Microsoft/consoles/xbox/halo
+  910  mv xbox_halo2.jpg Constructeurs/Microsoft/consoles/xbox/halo2
+  911  mv xbox_jetsetradiofuture_2.jpg Constructeurs/Microsoft/consoles/xbox/jetsetradiofutur
+  912  mv xbox_needforspeedunderground2.jpg Constructeurs/Microsoft/consoles/xbox/needforspeed
+  913  ls
+  914  cd ..
+  915  ls
+  916  touch commande.txt
+  917  history >>commande.txt
+  918  cat commande.txt
+  919  man hystory
+  920  man history
+  921  history 1
